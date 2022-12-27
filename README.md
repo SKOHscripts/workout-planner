@@ -1,12 +1,6 @@
 # Workout planner
 
-[![Python](https://img.shields.io/pypi/pyversions/workoutizer.svg?style=plastic)](https://badge.fury.io/py/workoutizer)
-[![Build Status](https://github.com/fgebhart/workoutizer/actions/workflows/matrix_test.yml/badge.svg)](https://github.com/fgebhart/workoutizer/actions/workflows/matrix_test.yml)
-[![Setup on Raspberry Pi](https://github.com/fgebhart/workoutizer/actions/workflows/raspberry_pi_test.yml/badge.svg)](https://github.com/fgebhart/workoutizer/actions/workflows/raspberry_pi_test.yml)
-[![Coverage Badge](https://raw.githubusercontent.com/fgebhart/workoutizer/master/.github/badges/coverage.svg)](https://raw.githubusercontent.com/fgebhart/workoutizer/master/.github/badges/coverage.svg)
-[![Downloads](https://pepy.tech/badge/workoutizer/month)](https://pepy.tech/project/workoutizer)
-
-Workoutizer is a simple python application for organizing your workouts races for sports activities. It is designed to work locally on any UNIX-like system running Python.
+Workout-planner is a simple python application for organizing your workouts races for sports activities. It is designed to work locally on any UNIX-like system running Python.
 
 The file allows you to visualize the training volume and to program your season while preferring a progressive staircase to limit injuries and over-training.
 I use the "[Trimps](https://blog.nolio.io/post/utiliser-la-charge-dentrainement-pour-mieux-sentrainer)" method.
